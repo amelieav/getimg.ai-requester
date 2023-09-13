@@ -33,7 +33,7 @@ headers = {
 # Define the JSON data for generating the image
 generation_data = {
     "model": "dark-sushi-mix-v2-25",  # Replace with your desired model
-    "prompt": "Side view of a humanoid head with vibrant neon neural network veins, representing futuristic technology and artificial intelligence. ",  # Your prompt for generating the image
+    "prompt": "Side view of a cat with vibrant neon neural network veins, representing futuristic technology and artificial intelligence. ",  # Your prompt for generating the image
     "output_format": "jpeg",  # Specify JPEG format
     "width": 1024,  # Your desired width
     "height": 1024,  # Your desired height
