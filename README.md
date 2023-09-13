@@ -2,6 +2,9 @@
 
 This project provides a Python script to interact with the GetImg.ai API for generating and upscaling images.
 
+Documentation found here: https://docs.getimg.ai/
+
+
 ## Features
 
 Generates images based on text prompts
