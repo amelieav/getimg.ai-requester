@@ -7,15 +7,15 @@ Documentation found here: https://docs.getimg.ai/
 
 ## Features
 
-Generates images based on text prompts
-Upscales generated images using the Real-ESRGAN-4x model
-Stores images in `generated/` folder
+- Generates images based on text prompts
+- Upscales generated images using the Real-ESRGAN-4x model
+- Stores images in `generated/` folder
 
 ## Prerequisites
-Python 3.x
-requests library
-python-dotenv library
-An API key from GetImg.ai
+- Python 3.x
+- requests library
+- python-dotenv library
+- An API key from GetImg.ai
 
 ## Setup
 Clone the repo, pip install dependencies and make a .env to store your API key in
