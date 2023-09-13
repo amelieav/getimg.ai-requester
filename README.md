@@ -19,3 +19,6 @@ Clone the repo, pip install dependencies and make a .env to store your API key i
 
 ## How to run
 `python main.py`
+
+## Example images
+![Example Image](generated/example.jpg)
