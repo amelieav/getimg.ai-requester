@@ -1,4 +1,4 @@
-# Image Generation and Upscaling API Client
+# Image Generation and Upscaling Fetching via getimg.ai API
 
 This project provides a Python script to interact with the GetImg.ai API for generating and upscaling images.
 
